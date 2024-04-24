@@ -1,0 +1,14 @@
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\bin\Debug\ĐỀ TÀI QUẢN LÝ SÂN BANH.exe.config
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\bin\Debug\ĐỀ TÀI QUẢN LÝ SÂN BANH.exe
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\bin\Debug\ĐỀ TÀI QUẢN LÝ SÂN BANH.pdb
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ_TÀI_QUẢN_LÝ_SÂN_BANH.Properties.Resources.resources
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ TÀI QUẢN LÝ SÂN BANH.csproj.GenerateResource.cache
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ TÀI QUẢN LÝ SÂN BANH.csproj.CoreCompileInputs.cache
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ TÀI QUẢN LÝ SÂN BANH.exe
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ TÀI QUẢN LÝ SÂN BANH.pdb
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ TÀI QUẢN LÝ SÂN BANH.csprojAssemblyReference.cache
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ_TÀI_QUẢN_LÝ_SÂN_BANH.main.resources
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ_TÀI_QUẢN_LÝ_SÂN_BANH.QUANLYSANBANH.resources
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ_TÀI_QUẢN_LÝ_SÂN_BANH.LOGIN.resources
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ_TÀI_QUẢN_LÝ_SÂN_BANH.DICHVU.resources
+G:\Công nghệ net\ĐỀ TÀI QUẢN LÝ SÂN BANH\ĐỀ TÀI QUẢN LÝ SÂN BANH\obj\Debug\ĐỀ_TÀI_QUẢN_LÝ_SÂN_BANH.KHACHHANG.resources
