@@ -120,4 +120,7 @@ values
 ('MS006','SÂN 6',70000,'ML02')
 
 INSERT INTO NHANVIEN
-VALUES('NV01',N'Võ Khánh Hưng','khanhhung2003','hung199535hcm','vokhanhhung03@gmail.com','0763270903')
+VALUES
+('NV01',N'Võ Khánh Hưng','khanhhung2003','hung199535hcm','vokhanhhung03@gmail.com','0763270903'),
+('NV02',N'Phan Thành Kỹ Nguyên','kynguyen2003','nguyen',null,null),
+('NV03',N'Võ Khánh Phạm Hoàng Bảo','hoangbao2003','hoangbao','baoph2903@gmail.com',null)

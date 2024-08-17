@@ -1,0 +1,83 @@
+﻿@*@model List<QL_BadmintonShop.Models.SANPHAM>*@
+@using PagedList.Mvc;
+@model PagedList.IPagedList<QL_BadmintonShop.Models.SANPHAM>
+@{
+    ViewBag.Title = "ShowAllSanPham";
+    Layout = null;
+}
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h2 class="title">Sản Phẩm</h2>
+                </div>
+            </div>
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="product product-single">
+                        <!--Hình ảnh sản phâm-->
+                        <div class="product-thumb">
+                            <a href="/racket/yonexracket1">
+                                <button class="main-btn quick-view">
+
+                                    <a href="#"><i class="fa fa-search-plus"></i> Mua ngay</a>
+                                </button>
+                                <img src="@Url.Content("~/Assets/img/HinhAnh_SanPham/" + item.HINHANH)" width="270px" height="360px" alt="Image" />
+                            </a>
+                        </div>
+
+                        <div class="product-body">
+                            <h3 class="product-price">@string.Format("{0:0,0}", item.GIABAN)VNĐ</h3>
+                            <div class="product-rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star-o empty"></i>
+                            </div>
+
+                            <!--Tên sản phẩm-->
+                            @if (item.TENSP.Length > 30)
+                            {
+                                <p>
+                                    <strong title="@item.TENSP"> @item.TENSP.Substring(0, 30)...</strong><br />
+                                    <a href="~/SanPham/ChiTietSanPham?id=@item.MASP">Xem chi tiết</a>
+                                </p>
+                            }
+                            else
+                            {
+                                <p>
+                                    <strong title="@item.TENSP">@item.TENSP</strong><br />
+                                    <a href="~/SanPham/ChiTietSanPham?id=@item.MASP">Xem chi tiết</a>
+                                </p>
+                            }
+
+
+
+                            <div class="product-btns">
+                                <button class="main-btn icon-btn"><i class="fa fa-heart"></i></button>
+                                <button class="main-btn icon-btn"><i class="fa fa-exchange"></i></button>
+                                <button class="primary-btn add-to-cart"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            }
+        <center style="color:#CCC;">
+            Trang @(Model.PageCount<Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+            <div class="text-center clear-both" style="margin:0 auto;">
+                @Html.PagedListPager(Model, page => Url.Action("Index", "Home", new { page }))
+            </div>
+        </center>
+        </div>
+
+    </div>
+</div>
+<br/>
+
+
+

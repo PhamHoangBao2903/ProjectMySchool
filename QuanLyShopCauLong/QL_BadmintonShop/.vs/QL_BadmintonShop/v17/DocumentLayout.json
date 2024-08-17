@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FE9AF9-763D-4ED2-9F52-EE0311174065}|QL_BadmintonShop\\QL_BadmintonShop.csproj|e:\\project\\quanlyshopcaulong\\ql_badmintonshop\\ql_badmintonshop\\views\\sanpham\\thuonghieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7FE9AF9-763D-4ED2-9F52-EE0311174065}|QL_BadmintonShop\\QL_BadmintonShop.csproj|solutionrelative:ql_badmintonshop\\views\\sanpham\\thuonghieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FE9AF9-763D-4ED2-9F52-EE0311174065}|QL_BadmintonShop\\QL_BadmintonShop.csproj|E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\ql_badmintonshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FE9AF9-763D-4ED2-9F52-EE0311174065}|QL_BadmintonShop\\QL_BadmintonShop.csproj|solutionrelative:ql_badmintonshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FE9AF9-763D-4ED2-9F52-EE0311174065}|QL_BadmintonShop\\QL_BadmintonShop.csproj|e:\\project\\quanlyshopcaulong\\ql_badmintonshop\\ql_badmintonshop\\views\\sanpham\\thuonghieusanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7FE9AF9-763D-4ED2-9F52-EE0311174065}|QL_BadmintonShop\\QL_BadmintonShop.csproj|solutionrelative:ql_badmintonshop\\views\\sanpham\\thuonghieusanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FE9AF9-763D-4ED2-9F52-EE0311174065}|QL_BadmintonShop\\QL_BadmintonShop.csproj|E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\ql_badmintonshop\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FE9AF9-763D-4ED2-9F52-EE0311174065}|QL_BadmintonShop\\QL_BadmintonShop.csproj|solutionrelative:ql_badmintonshop\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThuongHieu.cshtml",
+              "DocumentMoniker": "E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\QL_BadmintonShop\\Views\\SanPham\\ThuongHieu.cshtml",
+              "RelativeDocumentMoniker": "QL_BadmintonShop\\Views\\SanPham\\ThuongHieu.cshtml",
+              "ToolTip": "E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\QL_BadmintonShop\\Views\\SanPham\\ThuongHieu.cshtml",
+              "RelativeToolTip": "QL_BadmintonShop\\Views\\SanPham\\ThuongHieu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T06:16:43.834Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThuongHieuSanPham.cshtml",
+              "DocumentMoniker": "E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\QL_BadmintonShop\\Views\\SanPham\\ThuongHieuSanPham.cshtml",
+              "RelativeDocumentMoniker": "QL_BadmintonShop\\Views\\SanPham\\ThuongHieuSanPham.cshtml",
+              "ToolTip": "E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\QL_BadmintonShop\\Views\\SanPham\\ThuongHieuSanPham.cshtml",
+              "RelativeToolTip": "QL_BadmintonShop\\Views\\SanPham\\ThuongHieuSanPham.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T07:04:22.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\QL_BadmintonShop\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "QL_BadmintonShop\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\QL_BadmintonShop\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "QL_BadmintonShop\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:33:31.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\QL_BadmintonShop\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "QL_BadmintonShop\\Controllers\\SanPhamController.cs",
+              "ToolTip": "E:\\Project\\QuanLyShopCauLong\\QL_BadmintonShop\\QL_BadmintonShop\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "QL_BadmintonShop\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:34:00.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
